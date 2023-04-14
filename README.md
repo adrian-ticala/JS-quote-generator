@@ -22,7 +22,7 @@ The Random Joke Generator is a simple web-based project that generates random jo
 2. Open the "index.html" file in a web browser.
 3. Click the "Random Joke" button to fetch a random joke from the custom joke generator API.
 4. The generated joke will be displayed in the joke area on the web page.
-5. Click the "Generate Joke" button again to fetch a new joke from the API.
+5. Click the "Random Joke" button again to fetch a new joke from the API.
 
 ## Customization
 
